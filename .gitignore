@@ -7,3 +7,6 @@
 /Mohamed2/.vs/Mohamed2/FileContentIndex/18756d9f-d3b0-476d-96c2-0a7c70e90ed8.vsidx
 /Mohamed2/.vs/Mohamed2/v17/.suo
 /Mohamed2/.vs/Mohamed2/FileContentIndex/0b636790-8858-4a36-ac77-3a05569c9de1.vsidx
+*.exe
+*.dll
+*.pdb
